@@ -1,3 +1,11 @@
+/* 
+My color palette:
+#
+#
+#
+#
+*/
+
 * {
   padding: 0;
   margin: 0;
@@ -7,13 +15,13 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
+  background: #F7EEED;
   background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
   padding: 0 16px;
 }
 
 header {
-  background-color: #f5ba13;
+  background-color: #F6A6BB;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -60,7 +68,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #f5ba13;
+  color: #F191AC;
   border: none;
   width: 36px;
   height: 36px;
@@ -91,7 +99,7 @@ form.create-note button {
   position: absolute;
   right: 18px;
   bottom: -18px;
-  background: #f5ba13;
+  background: #F191AC;
   color: #fff;
   border: none;
   border-radius: 50%;
